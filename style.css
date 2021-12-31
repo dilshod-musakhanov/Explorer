@@ -6,6 +6,7 @@
 body {
   background: #17181a;
   font-family: "Montserrat", sans-serif;
+  overflow: hidden;
 }
 #logo {
   color: white;
@@ -129,6 +130,7 @@ body {
   font-size: 1.5rem;
   line-height: 2rem;
 }
+
 .reveal-img,
 .reveal-text {
   position: absolute;
